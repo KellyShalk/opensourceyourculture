@@ -4,7 +4,7 @@ Apply open source best practices to your team and organization. Employ this prac
 <h1 align="center">Hi 👋, I'm Kelly Shalk</h1>
 <p align="left"> <a href="https://twitter.com/kellyshalk" target="blank"><img src="https://img.shields.io/twitter/follow/kellyshalk?logo=twitter&style=for-the-badge" alt="kellyshalk" /></a> </p>
 
-- 🤝 I’m looking for help with the following toolkit: [open source your culture](https://docs.google.com/document/d/1TBKzK2SjDuYIXGfbFj5awIr2thwwglXBbb6-6hhV8pU/edit)
+- 🤝 I’m looking for help with the following toolkit: [open source your culture](https://github.com/KellyShalk/opensourceyourculture/blob/main/Open%20Source%20Your%20Culture.md)
 
 - 📝 I write on [https://kellymcshalk.medium.com/](https://kellymcshalk.medium.com/)
 
